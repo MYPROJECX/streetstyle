@@ -1,8 +1,10 @@
+# Welcome
+
 This documentation serves as your comprehensive guide to mastering the use of your Shopify theme. From initial installation to advanced customization, you'll find all the necessary information to make the most out of your theme and create a stunning online store.
 
 This guide is structured to help you navigate through every aspect of theme management, ensuring a smooth and efficient setup for your online store.
 
-## Introduction
+## Introduction <!-- {docsify-ignore} -->
 
 Our Shopify theme is crafted to deliver an exceptional shopping experience for your customers, combining modern aesthetics with powerful functionality. Whether you're a beginner or an experienced Shopify user, this theme provides the tools you need to create a unique, professional, and highly customizable online store.
 
@@ -16,7 +18,7 @@ This theme is packed with features designed to enhance both the user experience 
 - **Fast Loading:** The theme is optimized for speed, reducing load times to keep customers engaged and improving overall site performance, which is crucial for higher conversion rates.
 - **Cross-Browser Compatibility:** Whether your customers are using Chrome, Firefox, Safari, or Edge, the theme ensures a seamless experience, functioning consistently across all major web browsers.
 
-## Theme Compatibility
+### Theme Compatibility <!-- {docsify-ignore} -->
 
 Ensuring compatibility with the latest Shopify features and a wide range of browsers is key to providing a smooth and trouble-free experience for your customers.
 
@@ -29,7 +31,7 @@ Ensuring compatibility with the latest Shopify features and a wide range of brow
 - **Safari:** Works seamlessly on the latest version, maintaining high performance on Apple devices.
 - **Microsoft Edge:** Fully compatible with the latest version, delivering a smooth experience for users on Windows.
 
-## Getting Started
+## Getting Started <!-- {docsify-ignore} -->
 
 To kick off your journey with our Shopify theme, begin by following the installation process. The steps are straightforward, guiding you through uploading and activating the theme on your Shopify store.
 

@@ -1,9 +1,9 @@
 # Street Style
 
-> A magical documentation site generator.
+> Welcome to the home of all the documentation needed for your new Shopify theme.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Utilizing the latest Shopify features.
+- Lightning fast performance and easy to use.
+- Always improved and pushing the boundaries.
 
-[Getting Started](README.md)
+[Click here to get started](/README)

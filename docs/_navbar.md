@@ -1,2 +1,0 @@
-- Quick Page Navigation
-  - [Articles](/articles/)

@@ -10,16 +10,12 @@
       name="description"
       content="Welcome to the documentation site for the Shopify theme called 'Street Style' created with love by MYPROJECX."
     />
-    <link
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
-      media="(prefers-color-scheme: light)"
-      rel="stylesheet"
-    />
-    <link
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <!-- <link
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
       media="(prefers-color-scheme: dark)"
       rel="stylesheet"
-    />
+    /> -->
     <link href="theme.css" rel="stylesheet">
   </head>
   <body>
@@ -27,14 +23,13 @@
     <script>
       window.$docsify = {
         auto2top: true,
-        autoHeader: true,
         copyCode: {
           buttonText: 'Copy to clipboard',
           errorText: 'Error',
-          successText: 'Copied',
+          successText: 'Success',
         },
         coverpage: true,
-        loadNavbar: true,
+        loadNavbar: false,
         loadSidebar: true,
         maxLevel: 3,
         onlyCover: true,

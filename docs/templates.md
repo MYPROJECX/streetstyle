@@ -4,7 +4,7 @@ theme.liquid (layout file)
 
 404.json
 
-- [Articles](/articles/ 'Start here to learn about the theme')
+- [Articles](/articles/README 'Start here to learn about the theme')
 
 blog.json
 
