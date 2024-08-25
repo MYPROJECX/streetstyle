@@ -1,3 +1,5 @@
+This will serve as the index for the templates and explain how the layout templates work.
+
 theme.liquid (layout file)
 
 404.json
