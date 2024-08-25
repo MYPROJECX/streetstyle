@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "docsify:serve": "docsify serve ./docs --port 56322"
+  }
+}
