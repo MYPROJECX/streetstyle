@@ -17,4 +17,11 @@ Cart
 Social media
 Checkout
 Custom CSS
+
+```css
+.new-class {
+  display: block;
+}
+```
+
 Theme styles

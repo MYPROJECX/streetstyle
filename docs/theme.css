@@ -1,0 +1,14 @@
+:root {
+  --code-block-border-radius: 0px;
+  --code-block-margin: 2rem 0;
+  --code-block-padding: 2rem;
+  --modular-scale: 1.25;
+  --search-input-background-image:;
+  --search-input-padding: 1rem;
+  --search-margin: 0;
+  --sidebar-toggle-height: 53px;
+  --sidebar-toggle-icon-height: 10px;
+  --sidebar-toggle-icon-width: 16px;
+  --sidebar-toggle-offset-top: 0;
+  --sidebar-toggle-width: 53px;
+}
