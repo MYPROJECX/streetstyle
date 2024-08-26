@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 
 This comprehensive guide is designed to walk you through each step of the process, from uploading your theme to Shopify, activating it, and understanding the licensing terms. We’ll also cover how to keep your theme updated and how to handle backups to ensure your store remains secure and up-to-date.
 

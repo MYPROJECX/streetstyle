@@ -1,25 +1,6 @@
-# Support
+# Getting Support
 
 We are committed to providing you with the assistance you need to make the most of your theme. Whether you have questions, need technical support, or want to share feedback, this page will guide you on how to reach out to us.
-
-## Feedback
-
-We value your feedback as it helps us improve our themes and provide better service.
-
-### How to Provide Feedback <!-- {docsify-ignore} -->
-
-- **Feedback Form:** Use the contact form below to send us your feedback.
-- **Email:** Send your suggestions directly to [feedback@yourtheme.com](mailto:feedback@yourtheme.com).
-
-## Suggestions
-
-If you have any suggestions or feature requests, please share them with us.
-
-### Feature Request Submissions <!-- {docsify-ignore} -->
-
-If you have ideas for new features or improvements, we’d love to hear from you. Feature requests can be submitted through the contact form or via email. Please provide as much detail as possible about the feature you’d like to see, including why you think it would be beneficial.
-
-## Contact
 
 If you need to submit a request directly, please use the contact form below. Fill out your information, and we will get back to you as soon as possible.
 

@@ -1,3 +1,4 @@
+- [Getting Support](support.md 'Get help and find additional resources')
 - [Getting Started](installation.md 'Step-by-step guide to install and activate the theme')
 - [Theme Settings](settings.md 'How to configure the theme settings')
 - [Templates](templates.md 'Full list of available sections')
@@ -6,5 +7,5 @@
 - [Integrations](integrations.md 'Integrate apps and services with your theme')
 - [SEO](seo.md 'Search engine optimization is vital to success')
 - [Troubleshooting](troubleshooting.md 'Solutions to common issues and frequently asked questions')
+- [User Insights](feedback.md 'Keep track of theme updates and changes')
 - [Changelog](changelog.md 'Keep track of theme updates and changes')
-- [Support](support.md 'Get help and find additional resources')
