@@ -8,10 +8,10 @@
   --cover-background-mask-color: #FFFFFF;
   --cover-background-mask-opacity: 1;
   --cover-background-mask-visibility: visible;
+  --cover-blockquote-color: #E70D68;
   --cover-blockquote-font-size: 1.5rem;
   --cover-button-primary-color: #000000;
   --cover-color: #000000;
-  --cover-blockquote-color: #E70D68;
   --cover-heading-color: #000000;
   --cover-heading-font-weight: bold;
   --cover-max-width: 65ch;
@@ -31,6 +31,9 @@
   --link-color: #E70D68;
   --link-text-decoration--hover: none;
   --modular-scale: 1.25;
+  --navbar-root-color--active: #000000;
+  --navbar-root-color: #E70D68;
+  --search-flex-order: 0;
   --search-input-background-color: #E70D68;
   --search-input-background-image:;
   --search-input-border-color: #E70D68;
@@ -42,9 +45,13 @@
   --sidebar-background: #050505;
   --sidebar-border-color: #050505;
   --sidebar-border-width: 0;
+  --sidebar-nav-margin: 1rem 0;
+  --sidebar-nav-link-before-color: #FFEE30;
   --sidebar-nav-link-border-width: 0;
+  --sidebar-nav-link-color--active: #FFEE30;
   --sidebar-nav-link-color: #FFFFFF;
   --sidebar-nav-link-font-weight--active: bold;
+  --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, var(--sidebar-nav-link-color) 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, var(--sidebar-nav-link-color) 2.75px 4.25px, transparent 4px);
   --sidebar-toggle-background: #FFEE30;
   --sidebar-toggle-border-color: #FFEE30;
   --sidebar-toggle-border-radius: 0;
@@ -56,10 +63,8 @@
   --sidebar-toggle-icon-width: 16px;
   --sidebar-toggle-offset-top: 0;
   --sidebar-toggle-width: 51px;
+  --sidebar-width: 269px;
   --theme-hue: 55.1;
   --theme-lightness: 59.4%;
   --theme-saturation: 100%;
-  --navbar-root-color: #E70D68;
-  --navbar-root-color--active: #000000;
-  --sidebar-width: 269px;
 }

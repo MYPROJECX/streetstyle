@@ -9,23 +9,3 @@ The general settings of your store.
 ### Favicon
 
 This is how to change the favicon used for your store.
-
-## Typography
-
-The typography settings of your store.
-
-## Colors
-
-The color settings of your store.
-
-## Socials
-
-The social settings of your store.
-
-## Items Per Page
-
-These settings control the number of items shown per page for specific pages.
-
-## Theme styles
-
-The theme styles of your store.
