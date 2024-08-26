@@ -1,19 +1,29 @@
+# Support
+
 We are committed to providing you with the assistance you need to make the most of your theme. Whether you have questions, need technical support, or want to share feedback, this page will guide you on how to reach out to us.
 
-## Support Guidelines
+## Feedback
 
-If you need help with your theme, we are here to assist. Below are the details on how to contact our support team.
+We value your feedback as it helps us improve our themes and provide better service.
 
-### Support Contact Details
+### How to Provide Feedback <!-- {docsify-ignore} -->
 
-- **Email:** [support@yourtheme.com](mailto:support@yourtheme.com)
-- **Phone:** +1-800-123-4567 (available Monday to Friday, 9 AM - 5 PM EST)
-- **Social Media:** Connect with us on social media for updates and support:
-  - [Twitter](https://twitter.com/yourtheme)
-  - [Facebook](https://facebook.com/yourtheme)
-  - [Instagram](https://instagram.com/yourtheme)
+- **Feedback Form:** Use the contact form below to send us your feedback.
+- **Email:** Send your suggestions directly to [feedback@yourtheme.com](mailto:feedback@yourtheme.com).
 
-## How to Request Support
+## Suggestions
+
+If you have any suggestions or feature requests, please share them with us.
+
+### Feature Request Submissions <!-- {docsify-ignore} -->
+
+If you have ideas for new features or improvements, we’d love to hear from you. Feature requests can be submitted through the contact form or via email. Please provide as much detail as possible about the feature you’d like to see, including why you think it would be beneficial.
+
+## Contact
+
+If you need to submit a request directly, please use the contact form below. Fill out your information, and we will get back to you as soon as possible.
+
+### Requirements for contacting us :id=requirements <!-- {docsify-ignore} -->
 
 When reaching out for support, providing detailed information helps us resolve your issue more efficiently. Here's what to include in your support request:
 
@@ -23,26 +33,9 @@ When reaching out for support, providing detailed information helps us resolve y
 - **Screenshots or Videos:** Attach any relevant screenshots or videos that illustrate the issue.
 - **Browser and Device Information:** Let us know the browser and device you're using when you encounter the issue.
 
-## Feedback and Suggestions
-
-We value your feedback as it helps us improve our themes and provide better service. If you have any suggestions or feature requests, please share them with us.
-
-### How to Provide Feedback
-
-- **Feedback Form:** Use the contact form below to send us your feedback.
-- **Email:** Send your suggestions directly to [feedback@yourtheme.com](mailto:feedback@yourtheme.com).
-
-### Feature Request Submissions
-
-If you have ideas for new features or improvements, we’d love to hear from you. Feature requests can be submitted through the contact form or via email. Please provide as much detail as possible about the feature you’d like to see, including why you think it would be beneficial.
-
-## Contact Form
-
-If you need to submit a request directly, please use the contact form below. Fill out your information, and we will get back to you as soon as possible.
-
 We aim to respond to all inquiries within 24-48 hours. Thank you for choosing our theme, and we look forward to assisting you!
 
-<form action="https://script.google.com/macros/s/AKfycbwox6Ei_8PIPQsDP_Kz1aRwhg3bXnRw-_a0wkErbnb0EqGOLPAX7uSGwarxRKHeIm43FQ/exec" method="POST" aria-labelledby="contactFormHeading">
+<form action="https://script.google.com/macros/s/AKfycbwox6Ei_8PIPQsDP_Kz1aRwhg3bXnRw-_a0wkErbnb0EqGOLPAX7uSGwarxRKHeIm43FQ/exec" method="POST" aria-labelledby="contactFormHeading" style="margin-top: 2rem;">
   <fieldset>
     <legend id="contactFormHeading">Contact Us</legend>
     <div style="margin-bottom: 1em;">
