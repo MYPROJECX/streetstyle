@@ -67,4 +67,7 @@
   --theme-hue: 55.1;
   --theme-lightness: 59.4%;
   --theme-saturation: 100%;
+  --notice-important-border-color: #CC0000;
+  --notice-important-color: #FFFFFF;
+  --notice-important-background: #000000;
 }
