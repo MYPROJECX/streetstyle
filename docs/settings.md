@@ -22,15 +22,24 @@ To access and edit the theme styles in your Shopify admin, follow these steps:
 
    - On the Themes page, locate your active theme (marked as "Current Theme") and click the **"Customize"** button next to it. This will open the theme editor, where you can modify your theme’s styles and settings.
 
+5. **Navigate to the Theme Settings:**
+
+   - In the theme editor, locate the left-hand sidebar and scroll down to **"Theme settings"** at the bottom. Click on it to expand the settings.
+
+6. **Adjust Theme Settings:**
+
+   - Modify the layout, design, or other settings as needed to align with your brand’s style and objectives. You can rearrange sections, change images, edit text, and adjust colors to create a unique look.
+
+7. **Save Your Changes:**
+
+   - After making adjustments, click **"Save"** to apply the new template settings.
+
+
 ## General Settings
 
 The General settings section allows you to manage fundamental elements of your theme, such as your favicon and basic layout options. Follow these steps to access and edit the General settings:
 
-1. **Open Theme Settings:**
-
-   - In the theme editor, locate the left-hand sidebar and scroll down to **"Theme settings"** at the bottom. Click on it to expand the settings.
-
-2. **Access the General Settings:**
+1. **Access the General Settings:**
 
    - Within the **"Theme settings"** menu, click on **"General"**. This section includes options for key aspects of your store's appearance and functionality.
 
@@ -48,11 +57,7 @@ The favicon is the small icon that appears in the browser tab when customers vis
 
 Typography settings allow you to customize the fonts and text appearance across your store. To access and edit the Typography settings, follow these steps:
 
-1. **Open Theme Settings:**
-
-   - In the theme editor, locate the left-hand sidebar and scroll down to **"Theme settings"** at the bottom. Click on it to expand the settings.
-
-2. **Access the Typography Settings:**
+1. **Access the Typography Settings:**
 
    - Within the **"Theme settings"** menu, click on **"Typography"**. This section includes options to adjust the fonts, sizes, and other text styles for your store.
 
@@ -60,11 +65,7 @@ Typography settings allow you to customize the fonts and text appearance across 
 
 Colors settings enable you to manage the color scheme of your store. Follow these steps to access and edit the Colors settings:
 
-1. **Open Theme Settings:**
-
-   - In the theme editor, find **"Theme settings"** at the bottom of the left-hand sidebar. Click on it to expand the settings.
-
-2. **Access the Colors Settings:**
+1. **Access the Colors Settings:**
 
    - Within the **"Theme settings"** menu, click on **"Colors"**. This section allows you to modify the color palette used throughout your store.
 
@@ -72,11 +73,7 @@ Colors settings enable you to manage the color scheme of your store. Follow thes
 
 Socials settings allow you to link your social media accounts to your store. To access and edit the Socials settings, follow these steps:
 
-1. **Open Theme Settings:**
-
-   - In the theme editor, locate **"Theme settings"** at the bottom of the left-hand sidebar and click on it to expand the settings.
-
-2. **Access the Socials Settings:**
+1. **Access the Socials Settings:**
 
    - Within the **"Theme settings"** menu, click on **"Socials"**. Here, you can add links to your social media profiles, which will be displayed on your store.
 
@@ -84,11 +81,7 @@ Socials settings allow you to link your social media accounts to your store. To 
 
 Items Per Page settings let you control the number of products, collections, blogs, or comments displayed on various pages before pagination kicks in. Follow these steps to access and edit the Items Per Page settings:
 
-1. **Open Theme Settings:**
-
-   - In the theme editor, scroll down to **"Theme settings"** at the bottom of the left-hand sidebar and click on it to expand the settings.
-
-2. **Access the Items Per Page Settings:**
+1. **Access the Items Per Page Settings:**
 
    - Within the **"Theme settings"** menu, click on **"Items Per Page"**. This section allows you to adjust how many items are shown per page across different sections of your store.
 
