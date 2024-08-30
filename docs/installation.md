@@ -39,11 +39,11 @@ Updating your theme ensures that you’re using the latest version with all the 
 
 ## Making Changes
 
-The Shopify Theme Editor provides a user-friendly interface for making adjustments to your store's appearance without needing to touch code.
-
-You can also make changes through editing or adding files to the theme via the shopify edit code admin.
+TODO Write introduction about making changes to your Shopify theme.
 
 ### Theme Editor
+
+The Shopify Theme Editor offers a user-friendly interface that allows you to customize your store's appearance without needing to write or edit code directly.
 
 To access the theme editor in your Shopify admin, follow these steps:
 
@@ -69,12 +69,16 @@ To access the theme editor in your Shopify admin, follow these steps:
   - **Theme Settings:** Adjust global settings like colors, fonts, and styles that affect your entire store.
   - **Preview and Publish:** Use the preview feature to see changes in real-time before publishing them live.
 
-### File
+#### Code Editor
 
-To make changes via files, follow these steps:
+To access the code editor in your Shopify admin, follow these steps:
 
-TODO Write Steps for accessing the theme files. Follow style from steps for adding custom css via theme editor to re-write the bellow steps:
+1. **Log in to Shopify Admin:**
 
-- **Accessing Theme Files:**
+   - Visit [shopify.com](https://www.shopify.com) and log in using your store's credentials.
 
-   - Navigate to **Online Store** > **Themes** > **Actions** > **Edit code**.
+2. **Navigate to the Code Editor:**
+
+   - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
+   - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.

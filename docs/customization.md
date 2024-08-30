@@ -12,6 +12,8 @@ There are a couple of ways you can add custom CSS to your Shopify theme. You can
 
 #### Theme Editor
 
+The Shopify Theme Editor offers a user-friendly interface that allows you to customize your store's appearance without needing to write or edit code directly.
+
 To access and add custom CSS via the Shopify theme editor, follow these steps:
 
 1. **Log in to Shopify Admin:**
@@ -60,7 +62,7 @@ To access and add custom CSS via the Shopify theme editor, follow these steps:
 
 #### Code Editor
 
-To add custom CSS by creating a custom CSS file in the theme code editor, follow these steps:
+To add custom CSS by creating a custom CSS file in the code editor, follow these steps:
 
 1. **Log in to Shopify Admin:**
 
@@ -70,7 +72,7 @@ To add custom CSS by creating a custom CSS file in the theme code editor, follow
 
    - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
-   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
 3. **Add a Custom CSS File:**
 
@@ -81,7 +83,7 @@ To add custom CSS by creating a custom CSS file in the theme code editor, follow
 
 4. **Reference the CSS File in Your Theme:**
 
-   - Still in the theme code editor, navigate to the **"Layout"** folder and select the `theme.liquid` file.
+   - Still in the code editor, navigate to the **"Layout"** folder and select the `theme.liquid` file.
    - In the `theme.liquid` file, locate the closing `</head>` tag, which is typically near the top of the file.
    - Just before the `</head>` tag, add the following line of code to include your custom CSS file:
      ```liquid
@@ -126,7 +128,7 @@ Follow these steps to create and add custom JavaScript to your Shopify theme:
 
    - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
-   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
 3. **Add a Custom Javascript File:**
 
@@ -137,7 +139,7 @@ Follow these steps to create and add custom JavaScript to your Shopify theme:
 
 4. **Reference the JavaScript File in the Layout:**
 
-   - Still in the theme code editor, navigate to the **"Layout"** folder and select the `theme.liquid` file.
+   - Still in the code editor, navigate to the **"Layout"** folder and select the `theme.liquid` file.
    - In the `theme.liquid` file, locate the closing `</head>` tag, which is typically near the top of the file.
    - Just before the `</head>` tag or just before the `</body>` tag, add the following code to include your custom JavaScript file:
      ```liquid
@@ -224,7 +226,7 @@ Section files control specific components of your theme, such as headers, footer
 
    - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
-   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
 3. **Open the Sections Folder:**
 
@@ -246,7 +248,7 @@ Template files define the overall layout and structure of different types of pag
 
    - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
-   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
 3. **Open the Templates Folder:**
 
@@ -268,7 +270,7 @@ The main theme files control the overall settings and functions of your theme, i
 
    - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
-   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+   - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
 2. **Open the Theme Folder:**
 

@@ -2,11 +2,11 @@
 
 This section will guide you through the various settings and options available in your Shopify theme, enabling you to fully customize the look and feel of your online store. From general settings to specific page configurations, this documentation covers everything you need to know to tailor your store to your brand's unique identity.
 
-## Editing Theme Styles
+## Editing Theme Settings
 
-The Shopify Theme Editor provides a user-friendly interface for making adjustments to your store's appearance without needing to touch code.
+The Shopify Theme Editor offers a user-friendly interface that allows you to customize your store's appearance without needing to write or edit code directly.
 
-To access and edit the theme styles in your Shopify admin, follow these steps:
+To access and edit the theme settings in your Shopify admin, follow these steps:
 
 1. **Log in to Shopify Admin:**
 
