@@ -49,9 +49,13 @@ The home page, often referred to as the index page, is the first impression visi
 The index template is responsible for everything that appears on your home page. To create a compelling and functional home page, it’s recommended to include the following sections:
 
 - **Hero Banner:** A large, visually striking section at the top of the page that often includes a call to action, such as "Shop Now" or "Learn More."
+
 - **Featured Collections:** Highlight specific product collections to draw attention to your best-selling or seasonal items.
+
 - **Testimonials:** Display customer reviews or testimonials to build trust and social proof.
+
 - **Newsletter Signup:** Encourage visitors to subscribe to your newsletter for updates, promotions, and news.
+
 - **Blog Highlights:** Feature excerpts from your latest blog posts to keep your content fresh and engaging.
 
 To ensure your home page stands out and effectively represents your brand, it’s important to understand and utilize the various settings available within the index template.
@@ -119,9 +123,13 @@ The blog posts template allows merchants to define and manage individual blog po
 This template is responsible for displaying all the blog posts you create. The recommended sections to use for a blog post are as follows:
 
 - **Title:** The title of your blog post, prominently displayed at the top of the page.
+
 - **Featured Image:** A visual representation that captures attention and enhances the aesthetic of your post.
+
 - **Excerpt:** A brief summary or introduction to your blog post content, typically displayed on blog listing pages.
+
 - **Content:** The main body of your blog post, where you share detailed information, stories, or insights.
+
 - **Comments:** An optional section where customers can leave feedback, ask questions, or engage in discussions related to your post.
 
 To ensure that your blog posts are effectively displayed and aligned with your brand’s style, it’s essential to understand and utilize the various settings available within the blog posts template.

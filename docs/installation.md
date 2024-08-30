@@ -15,6 +15,7 @@ Regular updates are essential to maintain the functionality and security of your
 Before making any major changes, such as updating your theme, it’s important to back up your current theme. This ensures that you can restore your store to its previous state if anything goes wrong.
 
 **Backup Your Current Theme:**
+
   - To back up your theme, go to **Online Store** > **Themes** in your Shopify admin. Click **Actions** > **Duplicate** next to your active theme. This creates a copy of your current theme, which you can revert to if needed.
 
 ### Update
@@ -30,11 +31,13 @@ Updating your theme ensures that you’re using the latest version with all the 
    - When an update is available, download the updated theme file in `.zip` format from your theme provider. This file will contain all the latest enhancements and fixes.
 
 3. **Upload and Activate the Updated Theme:**
+
    - Follow the same steps outlined in the **Uploading the Theme to Shopify** section above. After uploading, don’t forget to publish the updated theme to activate it on your store.
 
 ### Restore
 
 **Restore a Previous Version (if needed):**
+
   - If you encounter issues after updating, you can revert to your backup by going to **Online Store** > **Themes**, finding the backup copy in the **Theme library**, and clicking **Actions** > **Publish**.
 
 ## Making Changes
@@ -65,9 +68,11 @@ To access the theme editor in your Shopify admin, follow these steps:
 
 #### Key Areas <!-- {docsify-ignore} -->
 
-  - **Sections:** Customize the layout of individual pages by adding, removing, or rearranging sections.
-  - **Theme Settings:** Adjust global settings like colors, fonts, and styles that affect your entire store.
-  - **Preview and Publish:** Use the preview feature to see changes in real-time before publishing them live.
+- **Sections:** Customize the layout of individual pages by adding, removing, or rearranging sections.
+
+- **Theme Settings:** Adjust global settings like colors, fonts, and styles that affect your entire store.
+
+- **Preview and Publish:** Use the preview feature to see changes in real-time before publishing them live.
 
 ### Code Editor
 

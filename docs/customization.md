@@ -230,11 +230,11 @@ Section files control specific components of your theme, such as headers, footer
 
 3. **Open the Sections Folder:**
 
-  - In the code editor, locate the **Sections** folder in the left-hand sidebar.
+   - In the code editor, locate the **Sections** folder in the left-hand sidebar.
 
 4. **Edit the Desired Section:**
 
-  - Click on the section file you want to edit. The file will open in the code editor where you can make your changes.
+   - Click on the section file you want to edit. The file will open in the code editor where you can make your changes.
 
 #### Templates
 
@@ -252,11 +252,11 @@ Template files define the overall layout and structure of different types of pag
 
 3. **Open the Templates Folder:**
 
-  - In the code editor, locate the **Templates** folder in the left-hand sidebar.
+   - In the code editor, locate the **Templates** folder in the left-hand sidebar.
 
 4. **Edit the Desired Template:**
 
-  - Click on the template file you wish to edit. The file will open in the code editor, allowing you to modify the page layout and structure.
+   - Click on the template file you wish to edit. The file will open in the code editor, allowing you to modify the page layout and structure.
 
 #### Layout
 
@@ -274,8 +274,8 @@ The main layout files control the overall settings and functions of your theme. 
 
 2. **Open the Layout Folder:**
 
-  - In the code editor, locate the **Layout** or **Config** folder in the left-hand sidebar, depending on what you need to edit.
+   - In the code editor, locate the **Layout** or **Config** folder in the left-hand sidebar, depending on what you need to edit.
 
 3. **Edit the Desired Layout:**
 
-  - Click on the layout file you want to edit, such as `theme.liquid`. This file will open in the code editor where you can make necessary changes to the global layout.
+   - Click on the layout file you want to edit, such as `theme.liquid`. This file will open in the code editor where you can make necessary changes to the global layout.

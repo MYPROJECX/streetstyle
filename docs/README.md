@@ -20,11 +20,15 @@ This theme is packed with features designed to enhance both the user experience 
 
 Some of the standout features include:
 
-- **Responsive Design:** Your store will look and function beautifully on any device, from large desktop screens to the smallest smartphones, ensuring a consistent user experience across all platforms.
-- **Customizable Sections:** The theme includes a variety of sections that you can easily customize to match your brand’s identity, allowing you to build a home page that reflects your unique style without needing any coding skills.
-- **SEO Optimized:** Built with search engine optimization in mind, this theme includes features that help improve your store’s visibility on search engines, driving more organic traffic to your site.
-- **Fast Loading:** The theme is optimized for speed, reducing load times to keep customers engaged and improving overall site performance, which is crucial for higher conversion rates.
-- **Cross-Browser Compatibility:** Whether your customers are using Chrome, Firefox, Safari, or Edge, the theme ensures a seamless experience, functioning consistently across all major web browsers.
+**Responsive Design:** Your store will look and function beautifully on any device, from large desktop screens to the smallest smartphones, ensuring a consistent user experience across all platforms.
+
+**Customizable Sections:** The theme includes a variety of sections that you can easily customize to match your brand’s identity, allowing you to build a home page that reflects your unique style without needing any coding skills.
+
+**SEO Optimized:** Built with search engine optimization in mind, this theme includes features that help improve your store’s visibility on search engines, driving more organic traffic to your site.
+
+**Fast Loading:** The theme is optimized for speed, reducing load times to keep customers engaged and improving overall site performance, which is crucial for higher conversion rates.
+
+**Cross-Browser Compatibility:** Whether your customers are using Chrome, Firefox, Safari, or Edge, the theme ensures a seamless experience, functioning consistently across all major web browsers.
 
 ## Next Steps <!-- {docsify-ignore} -->
 

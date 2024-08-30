@@ -8,11 +8,15 @@ If you need to submit a request directly, please use the contact form below. Fil
 
 When reaching out for support, providing detailed information helps us resolve your issue more efficiently. Here's what to include in your support request:
 
-- **Theme Name and Version:** Specify the name and version of the theme you're using.
-- **Shopify Store URL:** Provide the URL of your Shopify store.
-- **Description of the Issue:** Explain the problem you're experiencing in detail. Include steps to reproduce the issue if possible.
-- **Screenshots or Videos:** Attach any relevant screenshots or videos that illustrate the issue.
-- **Browser and Device Information:** Let us know the browser and device you're using when you encounter the issue.
+**Theme Name and Version:** Specify the name and version of the theme you're using.
+
+**Shopify Store URL:** Provide the URL of your Shopify store.
+
+**Description of the Issue:** Explain the problem you're experiencing in detail. Include steps to reproduce the issue if possible.
+
+**Screenshots or Videos:** Attach any relevant screenshots or videos that illustrate the issue.
+
+**Browser and Device Information:** Let us know the browser and device you're using when you encounter the issue.
 
 We aim to respond to all inquiries within 24-48 hours. Thank you for choosing our theme, and we look forward to assisting you!
 
