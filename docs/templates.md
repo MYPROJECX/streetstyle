@@ -4,6 +4,8 @@ This will serve as the index for the templates and explain how the layout templa
 
 ## Editing Templates
 
+The Shopify Theme Editor provides a user-friendly interface for making adjustments to your store's appearance without needing to touch code.
+
 To access and edit the templates in your Shopify admin, follow these steps:
 
 1. **Log in to Shopify Admin:**

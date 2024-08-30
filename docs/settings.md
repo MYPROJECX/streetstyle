@@ -4,6 +4,8 @@ This section will guide you through the various settings and options available i
 
 ## Editing Theme Styles
 
+The Shopify Theme Editor provides a user-friendly interface for making adjustments to your store's appearance without needing to touch code.
+
 To access and edit the theme styles in your Shopify admin, follow these steps:
 
 1. **Log in to Shopify Admin:**
@@ -33,7 +35,6 @@ To access and edit the theme styles in your Shopify admin, follow these steps:
 7. **Save Your Changes:**
 
    - After making adjustments, click **"Save"** to apply the new template settings.
-
 
 ## General Settings
 
