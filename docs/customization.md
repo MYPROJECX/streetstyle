@@ -12,7 +12,7 @@ There are a couple of ways you can add custom CSS to your Shopify theme. You can
 
 #### Theme Editor
 
-To access and edit custom CSS via the theme editor in your Shopify admin, follow these steps:
+To access and add custom CSS via the Shopify theme editor, follow these steps:
 
 1. **Log in to Shopify Admin:**
 
@@ -30,9 +30,25 @@ To access and edit custom CSS via the theme editor in your Shopify admin, follow
 
    - On the Themes page, locate your active theme (marked as "Current Theme") and click the **"Customize"** button next to it. This will open the theme editor, where you can modify your theme’s styles and settings.
 
-5. **Navigate to the Custom CSS:**
+5. **Locate the Custom CSS Option:**
 
-   - In the theme editor, locate the left-hand sidebar and scroll down to **"Custom CSS"** at the bottom. Click on it to expand the settings.
+   - The theme editor offers multiple locations where you can add custom CSS, depending on how broadly or specifically you want the styles to be applied:
+
+   - **Global Custom CSS in Theme Settings:**
+
+     - In the theme editor, scroll down the left-hand sidebar to the **"Theme Settings"** section, typically at the bottom. Here, you might find an option labeled **"Custom CSS"** or **"Additional CSS"**. Adding CSS in this section will apply your styles globally across your entire store, affecting all pages and elements that match the CSS selectors.
+
+   - **Custom CSS for Individual Sections:**
+
+     - Shopify themes often allow you to add custom CSS to specific sections of a page. To do this, click on the section you want to customize (e.g., Header, Footer, Slideshow, Product Grid) in the theme editor sidebar. Look for a **"Custom CSS"** field within the section’s settings. Adding CSS here will apply the styles only to that particular section, allowing for targeted adjustments.
+
+   - **Custom CSS for Specific Templates:**
+
+     - Some Shopify themes allow you to add custom CSS directly to specific page templates (e.g., Product pages, Collection pages, Blog pages). When editing a template in the theme editor, check the sidebar for a **"Custom CSS"** option. This allows you to tailor styles to specific types of pages, providing more granular control over your theme’s appearance.
+
+   - **Custom CSS for Apps and Widgets:**
+
+     - If your store uses third-party apps or widgets, the theme editor may include a **"Custom CSS"** option specifically for these elements. This is usually found in the settings area of the respective app or widget within the theme editor. Adding custom CSS here helps you style app components to better match your store’s overall design.
 
 6. **Add Custom CSS Styles:**
 
@@ -40,7 +56,7 @@ To access and edit custom CSS via the theme editor in your Shopify admin, follow
 
 7. **Save Your Changes:**
 
-   - After making adjustments, click **"Save"** to apply the new styles to your theme.
+   - Once you’ve added your custom CSS, click **"Save"** to apply the new styles to your theme.
 
 #### Code Editor
 
@@ -154,15 +170,15 @@ When adding custom JavaScript to your Shopify theme, adhering to best practices 
 
 ## Theme Modifications
 
-Write about customising the theme template and section files and why it is useful or might be used.
+Making modifications to theme template files allows you to tailor your store’s design and functionality to better suit your brand and business needs. By customizing the theme’s Liquid files, you can control how content is displayed, add unique features, and create a more personalized shopping experience for your customers.
 
 ### Overview
 
-Liquid is Shopify's templating language, and modifying Liquid files allows you to customize how your store's content is displayed.
+Liquid is Shopify's powerful templating language, designed to load dynamic content and provide the flexibility needed to create a unique storefront. Whether you want to alter how products are displayed, add new sections to your homepage, or insert dynamic content, understanding and utilizing Liquid is key to unlocking the full potential of your Shopify theme.
 
 - **What is Liquid?**
 
-   - Liquid is a templating language developed by Shopify. It is used to load dynamic content on Shopify storefronts and is the backbone of Shopify theme customization.
+   - Liquid is a templating language developed by Shopify, enabling you to load dynamic content on your storefront. It serves as the foundation for all Shopify theme customization, allowing you to control everything from basic layout adjustments to complex, data-driven displays.
 
 - **Basic Syntax:**
 
@@ -172,56 +188,92 @@ Liquid is Shopify's templating language, and modifying Liquid files allows you t
       <h2>{{ product.title }}</h2>
     {% endfor %}
     ```
-   - This code loops through products in a collection and displays each product's title.
+   - This example loops through products in a specific collection (in this case, the "frontpage" collection) and displays each product's title.
 
 #### Common Uses <!-- {docsify-ignore} -->
 
 - **Modifying Product Templates:**
 
-   - Add custom fields or change the layout by editing `product.liquid` in the `sections` or `templates` folder.
+   - Customize how product information is presented by editing the `product.liquid` file within the `sections` or `templates` folder. You can add custom fields, rearrange the layout, or incorporate new elements such as badges or custom buttons.
 
 - **Customizing Collection Pages:**
 
-   - Modify `collection.liquid` to adjust the display of products in a collection, such as changing the grid layout or adding filters.
+   - Adjust the appearance of product collections by modifying the `collection.liquid` file. This might involve changing the grid layout, adding filtering options, or incorporating dynamic content like banners or promotions.
 
 - **Inserting Dynamic Content:**
 
-   - Use Liquid tags to insert dynamic content such as product recommendations, related blog posts, or promotional banners.
+   - Use Liquid tags to include dynamic content, such as product recommendations, related blog posts, or promotional banners that update automatically based on the products being viewed.
 
 - **Creating New Templates and Sections:**
 
-   - Duplicate an existing Liquid file, rename it, and modify it to create custom page templates that can be selected in the Shopify admin.
+   - To create custom page templates, duplicate an existing Liquid file, rename it, and modify it to suit your needs. These custom templates can then be selected within the Shopify admin when creating or editing pages.
 
 ### Accessing Files
 
-Write introduction about why and how to access files.
+To make any modifications to your theme’s Liquid files, you need to access the theme’s code editor within the Shopify admin. This is where all of your theme’s files, including templates and sections, are stored and can be edited.
 
 #### Sections
 
-TODO Write Steps for accessing the section files. Follow style from steps for adding custom css via theme editor to re-write the bellow steps:
+Section files control specific components of your theme, such as headers, footers, and product grids. Modifying these files allows you to adjust the layout and functionality of individual parts of your store.
 
-- **Accessing Section Files:**
+1. **Log in to Shopify Admin:**
 
-   - Navigate to **Online Store** > **Themes** > **Actions** > **Edit code**.
-   - Expand Folder Sections
-   - Click section to edit
+   - Visit [shopify.com](https://www.shopify.com) and log in using your store's credentials.
+
+2. **Navigate to the Code Editor:**
+
+   - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
+   - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
+   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+
+3. **Open the Sections Folder:**
+
+  - In the code editor, locate the **Sections** folder in the left-hand sidebar.
+
+4. **Edit the Desired Section:**
+
+  - Click on the section file you want to edit. The file will open in the code editor where you can make your changes.
 
 #### Templates
 
-TODO Write Steps for accessing the template files. Follow style from steps for adding custom css via theme editor to re-write the bellow steps:
+Template files define the overall layout and structure of different types of pages, such as product pages, collection pages, and blog posts. Editing these files allows you to customize how entire pages are displayed.
 
-- **Accessing Section Files:**
+1. **Log in to Shopify Admin:**
 
-   - Navigate to **Online Store** > **Themes** > **Actions** > **Edit code**.
-   - Expand Folder Sections
-   - Click section to edit
+   - Visit [shopify.com](https://www.shopify.com) and log in using your store's credentials.
+
+2. **Navigate to the Code Editor:**
+
+   - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
+   - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
+   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+
+3. **Open the Templates Folder:**
+
+  - In the code editor, locate the **Templates** folder in the left-hand sidebar.
+
+4. **Edit the Desired Template:**
+
+  - Click on the template file you wish to edit. The file will open in the code editor, allowing you to modify the page layout and structure.
 
 #### Theme
 
-TODO Write Steps for accessing the theme files. Follow style from steps for adding custom css via theme editor to re-write the bellow steps:
+The main theme files control the overall settings and functions of your theme, including the global layout, styles, and script inclusions. Customizing these files can impact the entire store.
 
-- **Accessing Theme Files:**
+1. **Log in to Shopify Admin:**
 
-   - Navigate to **Online Store** > **Themes** > **Actions** > **Edit code**.
-   - Expand Folder Sections
-   - Click section to edit
+   - Visit [shopify.com](https://www.shopify.com) and log in using your store's credentials.
+
+2. **Navigate to the Code Editor:**
+
+   - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu.
+   - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
+   - Select **"Edit code"** from the dropdown menu. This will open the theme code editor, where you can modify the underlying files of your theme.
+
+2. **Open the Theme Folder:**
+
+  - In the code editor, locate the **Layout** or **Config** folder in the left-hand sidebar, depending on what you need to edit.
+
+3. **Edit the Theme Files:**
+
+  - Click on the theme file you want to edit, such as `theme.liquid`. This file will open in the code editor where you can make necessary changes to the global settings or layout.
