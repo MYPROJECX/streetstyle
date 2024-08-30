@@ -5,8 +5,7 @@
 - [Templates](/templates 'Full list of available sections')
 - [Sections](/sections 'Full list of available sections')
 - [Advanced](/customization 'Tailor the theme to your needs with advanced options')
-- [Integrations](/integrations 'Integrate apps and services with your theme')
-- [SEO](/seo 'Search engine optimization is vital to success')
-- [Troubleshooting](/troubleshooting 'Solutions to common issues and frequently asked questions')
-- [User Insights](/feedback 'Keep track of theme updates and changes')
+<!-- - [Integrations](/integrations 'Integrate apps and services with your theme') -->
+<!-- - [SEO](/SEO 'Search engine optimization is vital to success') -->
+<!-- - [User Insights](/feedback 'Keep track of theme updates and changes') -->
 - [Changelog](/changelog 'Keep track of theme updates and changes')

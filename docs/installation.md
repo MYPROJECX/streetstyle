@@ -69,7 +69,7 @@ To access the theme editor in your Shopify admin, follow these steps:
   - **Theme Settings:** Adjust global settings like colors, fonts, and styles that affect your entire store.
   - **Preview and Publish:** Use the preview feature to see changes in real-time before publishing them live.
 
-#### Code Editor
+### Code Editor
 
 To access the code editor in your Shopify admin, follow these steps:
 

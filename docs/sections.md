@@ -24,9 +24,9 @@ To access and modify sections in your Shopify theme, follow these steps:
 
    - On the Themes page, locate your active theme (marked as "Current Theme") and click the **"Customize"** button next to it. This will open the theme editor, where you can modify your theme’s styles and settings.
 
-5. **Navigate to the Template:**
+5. **Navigate to the Section:**
 
-   - In the theme editor, use the left-hand sidebar to locate and select the template you want to edit. Templates often include sections like the header, footer, and content areas.
+   - In the theme editor, use the left-hand sidebar to locate and select the section you want to edit.
 
 6. **Edit Sections:**
 

@@ -258,9 +258,9 @@ Template files define the overall layout and structure of different types of pag
 
   - Click on the template file you wish to edit. The file will open in the code editor, allowing you to modify the page layout and structure.
 
-#### Theme
+#### Layout
 
-The main theme files control the overall settings and functions of your theme, including the global layout, styles, and script inclusions. Customizing these files can impact the entire store.
+The main layout files control the overall settings and functions of your theme. Customizing these files can impact the entire store.
 
 1. **Log in to Shopify Admin:**
 
@@ -272,10 +272,10 @@ The main theme files control the overall settings and functions of your theme, i
    - Under **"Themes"**, find your active theme (marked as "Current Theme") and click on the **"Actions"** dropdown.
    - Select **"Edit code"** from the dropdown menu. This will open the code editor, where you can modify the underlying files of your theme.
 
-2. **Open the Theme Folder:**
+2. **Open the Layout Folder:**
 
   - In the code editor, locate the **Layout** or **Config** folder in the left-hand sidebar, depending on what you need to edit.
 
-3. **Edit the Theme Files:**
+3. **Edit the Desired Layout:**
 
-  - Click on the theme file you want to edit, such as `theme.liquid`. This file will open in the code editor where you can make necessary changes to the global settings or layout.
+  - Click on the layout file you want to edit, such as `theme.liquid`. This file will open in the code editor where you can make necessary changes to the global layout.
