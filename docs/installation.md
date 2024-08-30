@@ -36,3 +36,45 @@ Updating your theme ensures that you’re using the latest version with all the 
 
 **Restore a Previous Version (if needed):**
   - If you encounter issues after updating, you can revert to your backup by going to **Online Store** > **Themes**, finding the backup copy in the **Theme library**, and clicking **Actions** > **Publish**.
+
+## Making Changes
+
+The Shopify Theme Editor provides a user-friendly interface for making adjustments to your store's appearance without needing to touch code.
+
+You can also make changes through editing or adding files to the theme via the shopify edit code admin.
+
+### Theme Editor
+
+To access the theme editor in your Shopify admin, follow these steps:
+
+1. **Log in to Shopify Admin:**
+
+   - Visit [shopify.com](https://www.shopify.com) and log in using your store's credentials.
+
+2. **Navigate to Online Store:**
+
+   - From the Shopify Admin dashboard, click on **"Online Store"** in the left-hand menu. This will expand a sub-menu.
+
+3. **Select Themes:**
+
+   - Under **"Online Store"**, click on **"Themes"**. You'll be taken to a page that displays your current theme as well as any other themes you have installed.
+
+4. **Customize the Theme:**
+
+   - On the Themes page, locate your active theme (marked as "Current Theme") and click the **"Customize"** button next to it. This will open the theme editor, where you can modify your theme’s styles and settings.
+
+#### Key Areas <!-- {docsify-ignore} -->
+
+  - **Sections:** Customize the layout of individual pages by adding, removing, or rearranging sections.
+  - **Theme Settings:** Adjust global settings like colors, fonts, and styles that affect your entire store.
+  - **Preview and Publish:** Use the preview feature to see changes in real-time before publishing them live.
+
+### File
+
+To make changes via files, follow these steps:
+
+TODO Write Steps for accessing the theme files. Follow style from steps for adding custom css via theme editor to re-write the bellow steps:
+
+- **Accessing Theme Files:**
+
+   - Navigate to **Online Store** > **Themes** > **Actions** > **Edit code**.
