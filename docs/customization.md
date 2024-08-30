@@ -114,7 +114,7 @@ Enhancing your store with custom JavaScript allows you to add dynamic functional
 
 To add custom JavaScript to your Shopify theme, you need to create or edit JavaScript files directly in the theme's code editor.
 
-#### Creating a Custom JavaScript File
+#### Code Editor
 
 Follow these steps to create and add custom JavaScript to your Shopify theme:
 
