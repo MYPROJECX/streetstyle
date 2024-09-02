@@ -58,10 +58,6 @@ The index template is responsible for everything that appears on your home page.
 
 - **Blog Highlights:** Feature excerpts from your latest blog posts to keep your content fresh and engaging.
 
-To ensure your home page stands out and effectively represents your brand, it’s important to understand and utilize the various settings available within the index template.
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## List Collections
 
 This will list all of the collections you have setup in your store.
@@ -71,8 +67,6 @@ This will list all of the collections you have setup in your store.
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
 
 ## Collection
 
@@ -84,8 +78,6 @@ This lists all of your products.
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## Product
 
 This is the product information page.
@@ -96,8 +88,6 @@ This is the product information page.
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## Blog
 
 This lists all of your blog posts.
@@ -107,8 +97,6 @@ This lists all of your blog posts.
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
 
 ## Blog Posts
 
@@ -122,19 +110,15 @@ The blog posts template allows merchants to define and manage individual blog po
 
 This template is responsible for displaying all the blog posts you create. The recommended sections to use for a blog post are as follows:
 
-- **Title:** The title of your blog post, prominently displayed at the top of the page.
+- **[Title](/sections):** The title of your blog post, prominently displayed at the top of the page.
 
-- **Featured Image:** A visual representation that captures attention and enhances the aesthetic of your post.
+- **[Featured Image](/sections):** A visual representation that captures attention and enhances the aesthetic of your post.
 
-- **Excerpt:** A brief summary or introduction to your blog post content, typically displayed on blog listing pages.
+- **[Excerpt](/sections):** A brief summary or introduction to your blog post content, typically displayed on blog listing pages.
 
-- **Content:** The main body of your blog post, where you share detailed information, stories, or insights.
+- **[Content](/sections):** The main body of your blog post, where you share detailed information, stories, or insights.
 
-- **Comments:** An optional section where customers can leave feedback, ask questions, or engage in discussions related to your post.
-
-To ensure that your blog posts are effectively displayed and aligned with your brand’s style, it’s essential to understand and utilize the various settings available within the blog posts template.
-
-[Click here to explore all settings related to blog posts](/articles/README 'Start here to learn about the theme')
+- **[Comments](/sections):** An optional section where customers can leave feedback, ask questions, or engage in discussions related to your post.
 
 ### Create a Blog Post :id=create-blog-posts
 
@@ -194,8 +178,6 @@ Introduction
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## Cart
 
 Introduction
@@ -205,8 +187,6 @@ Introduction
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
 
 ## Page
 
@@ -218,8 +198,6 @@ Introduction
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## About Page
 
 Introduction
@@ -229,8 +207,6 @@ Introduction
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
 
 ## Contact Page
 
@@ -242,8 +218,6 @@ Introduction
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## Password
 
 Introduction
@@ -253,8 +227,6 @@ Introduction
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
 
 ## Gift Card
 
@@ -266,8 +238,6 @@ Introduction
 
 ### Recommendations
 
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')
-
 ## 404
 
 Introduction
@@ -277,5 +247,3 @@ Introduction
    - 1 simple step starting from the theme editor screen. Select the template.
 
 ### Recommendations
-
-[Click here to explore all settings related to the home page](/index/README 'Start here to learn about the theme')

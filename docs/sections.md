@@ -36,20 +36,151 @@ To access and modify sections in your Shopify theme, follow these steps:
 
    - After making your adjustments, click **"Save"** to apply the new layout and design settings to your store.
 
+## Layout
+
+Introduction to the layout sections.
+
+### header-group.json
+
+layout-header.liquid  
+layout-mobile.liquid
+
+### footer-group.json
+
+layout-footer.liquid
+
+### layout-announcement.liquid
+
+### modal-search.liquid
+
+predictive-search.liquid
+
+### panel-menu.liquid
+
+### panel-basket.liquid
+
 ## Common
 
-The home page, often referred to as the index page, is the first impression visitors have of your store. It serves as the central hub where you can showcase your brand, highlight featured products, and guide customers to other important sections of your website. Customizing the home page allows you to create a welcoming and engaging experience that draws visitors in and encourages them to explore more of your store.
+Introduction to the common sections.
 
-### Hero
+### component-banner-divider.liquid
 
-Intro to hero section.
+### component-breadcrumbs.liquid
 
-#### Settings
+### component-column.liquid
 
-Intro to hero section.
+### component-custom-apps.liquid
 
-### Hero
+### component-custom-liquid.liquid
 
-### Hero
+### component-featured-categories.liquid
 
-### Hero
+### component-featured-collections.liquid
+
+### component-hero-section.liquid
+
+### component-image-text.liquid
+
+### component-intro.liquid
+
+### component-newsletter.liquid
+
+### component-quote.liquid
+
+### component-reviews-service.liquid
+
+### component-social.liquid
+
+## List Collections
+
+Introduction to the list collection sections.
+
+### template-list-collections.liquid
+
+## Collection
+
+Introduction to the collection sections.
+
+### template-collection.liquid
+
+### component-intro-collection.liquid
+
+### component-collection-description.liquid
+
+### component-collection-image.liquid
+
+## Product
+
+Introduction to the product sections.
+
+### template-product.liquid
+
+### component-product-complementary.liquid
+
+### component-product-related.liquid
+
+## Blog
+
+Introduction to the blog sections.
+
+### template-blog.liquid
+
+### component-intro-blog.liquid
+
+## Blog Posts
+
+Introduction to the blog posts sections.
+
+### template-article.liquid
+
+### component-intro-article.liquid
+
+### component-article-comments.liquid
+
+### component-article-details.liquid
+
+### component-article-image.liquid
+
+## Search
+
+Introduction to the search sections.
+
+### template-search.liquid
+
+## Cart
+
+Introduction to the cart sections.
+
+### template-cart.liquid
+
+## Page
+
+Introduction to the page sections.
+
+### template-page.liquid
+
+### component-intro-page.liquid
+
+## About Page
+
+Introduction to the about page sections.
+
+### template-about.liquid
+
+## Contact Page
+
+Introduction to the contact page sections.
+
+### template-contact.liquid
+
+## Password
+
+Introduction to the password sections.
+
+### template-closed.liquid
+
+## 404
+
+Introduction to the 404 sections.
+
+### template-404.liquid

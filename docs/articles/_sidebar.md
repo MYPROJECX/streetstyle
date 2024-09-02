@@ -1,6 +1,0 @@
-- [Go Back](/templates?id=blog-posts 'How to configure the theme settings')
-- [Index](/articles/README 'How to configure the theme settings')
-- [Theme Settings](/articles/settings 'How to configure the theme settings')
-- [Templates](/articles/templates 'How to configure the theme settings')
-- [Sections](/articles/sections 'How to configure the theme settings')
-<!-- - [SEO](/articles/SEO 'How to configure the theme settings') -->

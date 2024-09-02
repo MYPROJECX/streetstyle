@@ -1,4 +1,4 @@
-# Advanced Customization
+# Customization
 
 This guide is designed for users who want to go beyond basic theme customization and delve into more advanced modifications. Whether you're adding custom CSS, integrating custom JavaScript, or tweaking Liquid templates, this guide will provide you with the knowledge and best practices to safely and effectively customize your Shopify theme.
 

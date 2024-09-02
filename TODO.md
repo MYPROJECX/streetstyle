@@ -7,4 +7,3 @@ TODO Write introduction about making changes to your Shopify theme.
 TODO Write individual theme settings.
 TODO Write individual template.
 TODO Write individual sections.
-TODO Write individual page folders.
