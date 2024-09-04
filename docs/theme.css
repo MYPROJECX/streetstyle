@@ -77,10 +77,6 @@
   --theme-saturation: 100%;
 }
 
-body {
-  -webkit-font-smoothing: antialiased;
-}
-
 .markdown-section {
   padding: 2rem 1rem;
 }
