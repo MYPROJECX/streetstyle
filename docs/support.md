@@ -18,56 +18,53 @@ When reaching out for support, providing detailed information helps us resolve y
 
 - **Browser and Device Information:** Let us know the browser and device you're using when you encounter the issue.
 
-We aim to respond to all inquiries within 24-48 hours. Thank you for choosing our theme, and we look forward to assisting you!
+### Submit your support request bellow :id=form <!-- {docsify-ignore} -->
 
-<form action="https://script.google.com/macros/s/AKfycbwox6Ei_8PIPQsDP_Kz1aRwhg3bXnRw-_a0wkErbnb0EqGOLPAX7uSGwarxRKHeIm43FQ/exec" method="POST" aria-labelledby="contactFormHeading" style="margin-top: 2rem;">
-  <fieldset>
-    <legend id="contactFormHeading">Contact Us</legend>
-    <div style="margin-bottom: 1em;">
-      <label for="email" style="display: block; margin-bottom: 0.5em;">Email:</label>
-      <input 
-        id="email" 
-        name="Email" 
-        type="email" 
-        placeholder="Enter your email" 
-        required 
-        aria-required="true" 
-        aria-describedby="emailHelp" 
-        style="width: 100%; padding: 0.5em; border: 1px solid #ccc; border-radius: 4px;" 
-      />
-      <small id="emailHelp" style="display: block; margin-top: 0.5em; color: #666;">
-        We'll never share your email with anyone else.
-      </small>
-    </div>
-    <div style="margin-bottom: 1em;">
-      <label for="name" style="display: block; margin-bottom: 0.5em;">Name:</label>
-      <input 
-        id="name" 
-        name="Name" 
-        type="text" 
-        placeholder="Enter your name" 
-        required 
-        aria-required="true" 
-        style="width: 100%; padding: 0.5em; border: 1px solid #ccc; border-radius: 4px;" 
-      />
-    </div>
-    <div style="margin-bottom: 1em;">
-      <label for="name" style="display: block; margin-bottom: 0.5em;">Message:</label>
-      <input 
-        id="message" 
-        name="Message" 
-        type="textarea" 
-        placeholder="Enter your message" 
-        required 
-        aria-required="true" 
-        style="width: 100%; padding: 0.5em; border: 1px solid #ccc; border-radius: 4px;" 
-      />
-    </div>
-    <button 
-      type="submit" 
-      style="padding: 0.5em 1em; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;"
-      aria-label="Send your information">
-      Send
-    </button>
-  </fieldset>
-</form>
+<div class="contact">
+  <form action="https://script.google.com/macros/s/AKfycbwox6Ei_8PIPQsDP_Kz1aRwhg3bXnRw-_a0wkErbnb0EqGOLPAX7uSGwarxRKHeIm43FQ/exec" method="POST" aria-labelledby="contactFormHeading">
+    <fieldset>
+      <legend id="contactFormHeading" class="sr-only">Contact Us Form</legend>
+      <div class="input">
+        <label for="email">Email</label>
+        <input 
+          type="email"
+          id="email"
+          name="Email"
+          placeholder="Enter your email"
+          aria-required="true"
+          required
+        />
+      </div>
+      <div class="input">
+        <label for="name">Name</label>
+        <input 
+          type="text"
+          id="name"
+          name="Name"
+          placeholder="Enter your name"
+          aria-required="true"
+          required
+        />
+      </div>
+      <div class="input">
+        <label for="message">Message</label>
+        <textarea 
+          id="message"
+          name="Message"
+          placeholder="Enter your message" 
+          rows="5"
+          aria-required="true"
+          required
+        ></textarea>
+      </div>
+      <div class="footer">
+        <div class="disclaimer">
+          <p>We aim to respond to all inquiries within 24 to 48 hours. Thank you for choosing our theme, and we look forward to assisting you!</p>
+        </div>
+        <button type="submit" class="button">
+          Click To Send Support Request
+        </button>
+      </div>
+    </fieldset>
+  </form>
+</div>

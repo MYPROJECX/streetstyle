@@ -1,5 +1,7 @@
 :root {
+  --base-color: #050505;
   --base-font-size: 1rem;
+  --base-line-height: 1.5;
   --code-block-border-radius: 0px;
   --code-block-margin: 2rem 0;
   --code-block-padding: 2rem;
@@ -10,14 +12,14 @@
   --cover-background-mask-visibility: visible;
   --cover-blockquote-color: #E70D68;
   --cover-blockquote-font-size: 1.5rem;
-  --cover-button-primary-color: #000000;
-  --cover-color: #000000;
-  --cover-heading-color: #000000;
+  --cover-button-primary-color: #050505;
+  --cover-color: #050505;
+  --cover-heading-color: #050505;
   --cover-heading-font-weight: bold;
   --cover-max-width: 65ch;
-  --duration-fast: 0;
-  --duration-medium: 0;
-  --duration-slow: 0;
+  --duration-fast: 0.1s;
+  --duration-medium: 0.2s;
+  --duration-slow: 0.3s;
   --heading-h1-font-size: 3.75rem;
   --heading-h1-font-weight: bold;
   --heading-h2-font-size: 2.25rem;
@@ -33,6 +35,9 @@
   --modular-scale: 1.25;
   --navbar-root-color--active: #000000;
   --navbar-root-color: #E70D68;
+  --notice-important-background: #000000;
+  --notice-important-border-color: #CC0000;
+  --notice-important-color: #FFFFFF;
   --search-flex-order: 0;
   --search-input-background-color: #E70D68;
   --search-input-background-image:;
@@ -42,16 +47,18 @@
   --search-input-padding: 1rem;
   --search-input-placeholder-color: #FFFFFF;
   --search-margin: 0;
+  --selection-color: #FFEE30;
   --sidebar-background: #050505;
   --sidebar-border-color: #050505;
   --sidebar-border-width: 0;
-  --sidebar-nav-margin: 1rem 0;
   --sidebar-nav-link-before-color: #FFEE30;
   --sidebar-nav-link-border-width: 0;
   --sidebar-nav-link-color--active: #FFEE30;
   --sidebar-nav-link-color: #FFFFFF;
   --sidebar-nav-link-font-weight--active: bold;
+  --sidebar-nav-margin: 1rem 0;
   --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, var(--sidebar-nav-link-color) 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, var(--sidebar-nav-link-color) 2.75px 4.25px, transparent 4px);
+  --sidebar-padding: 0 1rem;
   --sidebar-toggle-background: #FFEE30;
   --sidebar-toggle-border-color: #FFEE30;
   --sidebar-toggle-border-radius: 0;
@@ -64,10 +71,88 @@
   --sidebar-toggle-offset-top: 0;
   --sidebar-toggle-width: 51px;
   --sidebar-width: 269px;
+  --theme-color: #FFEE30;
   --theme-hue: 55.1;
   --theme-lightness: 59.4%;
   --theme-saturation: 100%;
-  --notice-important-border-color: #CC0000;
-  --notice-important-color: #FFFFFF;
-  --notice-important-background: #000000;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.markdown-section {
+  padding: 2rem 1rem;
+}
+
+.sr-only {
+  border-width: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.contact {
+  background-color: #050505;
+  margin-top: 1rem;
+}
+
+.contact fieldset {
+  border: 0;
+  margin: 0;
+  padding: 1rem;
+}
+
+.contact .input {
+  margin-top: 1rem;
+}
+
+.contact .input:nth-of-type(1) {
+  margin-top: 0;
+}
+
+.contact .input label {
+  color: #FFFFFF;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.contact .input input,
+.contact .input textarea {
+  background-color: #FFFFFF;
+  border: 1px solid #050505;
+  border-radius: 0;
+  color: #050505;
+  display: block;
+  padding: 1rem;
+  width: 100%;
+}
+
+.contact .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact .disclaimer {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.contact .disclaimer p {
+  margin: 1rem 0;
+}
+
+.contact .button {
+  background-color: #007bff;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  color: #FFFFFF;
+  cursor: pointer;
+  padding: 1rem;
 }
